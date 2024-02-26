@@ -1,0 +1,7 @@
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\bin\Debug\Interface.exe.config
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\bin\Debug\Interface.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\bin\Debug\Interface.pdb
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\obj\Debug\Interface.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\obj\Debug\Interface.pdb

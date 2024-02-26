@@ -1,0 +1,7 @@
+D:\Csit\6th sem\Program\C#\lab\lab_1\Student_Input\Student_Input\bin\Debug\Student_Input.exe.config
+D:\Csit\6th sem\Program\C#\lab\lab_1\Student_Input\Student_Input\bin\Debug\Student_Input.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Student_Input\Student_Input\bin\Debug\Student_Input.pdb
+D:\Csit\6th sem\Program\C#\lab\lab_1\Student_Input\Student_Input\obj\Debug\Student_Input.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Student_Input\Student_Input\obj\Debug\Student_Input.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Student_Input\Student_Input\obj\Debug\Student_Input.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Student_Input\Student_Input\obj\Debug\Student_Input.pdb

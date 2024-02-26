@@ -1,0 +1,7 @@
+D:\Csit\6th sem\Program\C#\Constructor\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\Csit\6th sem\Program\C#\Constructor\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\Csit\6th sem\Program\C#\Constructor\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\Csit\6th sem\Program\C#\Constructor\lab_1\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\Constructor\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\Constructor\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\Csit\6th sem\Program\C#\Constructor\lab_1\lab_1\obj\Debug\lab_1.pdb
