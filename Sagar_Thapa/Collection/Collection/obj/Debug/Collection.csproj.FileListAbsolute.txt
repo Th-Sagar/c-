@@ -1,0 +1,14 @@
+D:\Csit\6th sem\Program\C#\lab\lab_1\Collection\Collection\bin\Debug\Collection.exe.config
+D:\Csit\6th sem\Program\C#\lab\lab_1\Collection\Collection\bin\Debug\Collection.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Collection\Collection\bin\Debug\Collection.pdb
+D:\Csit\6th sem\Program\C#\lab\lab_1\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Collection\Collection\obj\Debug\Collection.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Collection\Collection\obj\Debug\Collection.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Collection\Collection\obj\Debug\Collection.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Collection\Collection\obj\Debug\Collection.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Collection\Collection\bin\Debug\Collection.exe.config
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Collection\Collection\bin\Debug\Collection.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Collection\Collection\bin\Debug\Collection.pdb

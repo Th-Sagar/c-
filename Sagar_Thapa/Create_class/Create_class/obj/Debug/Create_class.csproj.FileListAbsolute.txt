@@ -1,0 +1,14 @@
+D:\Csit\6th sem\Program\C#\lab\lab_1\Create_class\Create_class\bin\Debug\Create_class.exe.config
+D:\Csit\6th sem\Program\C#\lab\lab_1\Create_class\Create_class\bin\Debug\Create_class.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Create_class\Create_class\bin\Debug\Create_class.pdb
+D:\Csit\6th sem\Program\C#\lab\lab_1\Create_class\Create_class\obj\Debug\Create_class.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Create_class\Create_class\obj\Debug\Create_class.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Create_class\Create_class\obj\Debug\Create_class.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Create_class\Create_class\obj\Debug\Create_class.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\bin\Debug\Create_class.exe.config
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\bin\Debug\Create_class.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\bin\Debug\Create_class.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\obj\Debug\Create_class.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\obj\Debug\Create_class.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\obj\Debug\Create_class.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\obj\Debug\Create_class.pdb

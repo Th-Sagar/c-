@@ -1,0 +1,21 @@
+D:\Csit\6th sem\Program\C#\lab\lab_1\try_catch\try_catch\bin\Debug\try_catch.exe.config
+D:\Csit\6th sem\Program\C#\lab\lab_1\try_catch\try_catch\bin\Debug\try_catch.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\try_catch\try_catch\bin\Debug\try_catch.pdb
+D:\Csit\6th sem\Program\C#\lab\lab_1\try_catch\try_catch\obj\Debug\try_catch.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\try_catch\try_catch\obj\Debug\try_catch.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\try_catch\try_catch\obj\Debug\try_catch.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\try_catch\try_catch\obj\Debug\try_catch.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\try_catch\try_catch\bin\Debug\try_catch.exe.config
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\try_catch\try_catch\bin\Debug\try_catch.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\try_catch\try_catch\bin\Debug\try_catch.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\try_catch\try_catch\obj\Debug\try_catch.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\try_catch\try_catch\obj\Debug\try_catch.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\try_catch\try_catch\obj\Debug\try_catch.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\try_catch\try_catch\obj\Debug\try_catch.pdb
+D:\Program\C#\Sagar_Thapa\try_catch\try_catch\bin\Debug\try_catch.exe.config
+D:\Program\C#\Sagar_Thapa\try_catch\try_catch\bin\Debug\try_catch.exe
+D:\Program\C#\Sagar_Thapa\try_catch\try_catch\bin\Debug\try_catch.pdb
+D:\Program\C#\Sagar_Thapa\try_catch\try_catch\obj\Debug\try_catch.csproj.AssemblyReference.cache
+D:\Program\C#\Sagar_Thapa\try_catch\try_catch\obj\Debug\try_catch.csproj.CoreCompileInputs.cache
+D:\Program\C#\Sagar_Thapa\try_catch\try_catch\obj\Debug\try_catch.exe
+D:\Program\C#\Sagar_Thapa\try_catch\try_catch\obj\Debug\try_catch.pdb

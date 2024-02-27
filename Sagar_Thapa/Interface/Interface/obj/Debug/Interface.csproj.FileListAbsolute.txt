@@ -1,0 +1,21 @@
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\bin\Debug\Interface.exe.config
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\bin\Debug\Interface.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\bin\Debug\Interface.pdb
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\obj\Debug\Interface.exe
+D:\Csit\6th sem\Program\C#\lab\lab_1\Interface\Interface\obj\Debug\Interface.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Interface\Interface\bin\Debug\Interface.exe.config
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Interface\Interface\bin\Debug\Interface.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Interface\Interface\bin\Debug\Interface.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Interface\Interface\obj\Debug\Interface.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Interface\Interface\obj\Debug\Interface.pdb
+D:\Program\C#\Sagar_Thapa\Interface\Interface\bin\Debug\Interface.exe.config
+D:\Program\C#\Sagar_Thapa\Interface\Interface\bin\Debug\Interface.exe
+D:\Program\C#\Sagar_Thapa\Interface\Interface\bin\Debug\Interface.pdb
+D:\Program\C#\Sagar_Thapa\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\Program\C#\Sagar_Thapa\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Program\C#\Sagar_Thapa\Interface\Interface\obj\Debug\Interface.exe
+D:\Program\C#\Sagar_Thapa\Interface\Interface\obj\Debug\Interface.pdb
