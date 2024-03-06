@@ -1,0 +1,14 @@
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\bin\Debug\net8.0\test lab 1.exe
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\bin\Debug\net8.0\test lab 1.deps.json
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\bin\Debug\net8.0\test lab 1.runtimeconfig.json
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\bin\Debug\net8.0\test lab 1.dll
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\bin\Debug\net8.0\test lab 1.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\test lab 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\test lab 1.AssemblyInfoInputs.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\test lab 1.AssemblyInfo.cs
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\test lab 1.csproj.CoreCompileInputs.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\test lab 1.dll
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\refint\test lab 1.dll
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\test lab 1.pdb
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\test lab 1.genruntimeconfig.cache
+D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\test lab 1\test lab 1\obj\Debug\net8.0\ref\test lab 1.dll

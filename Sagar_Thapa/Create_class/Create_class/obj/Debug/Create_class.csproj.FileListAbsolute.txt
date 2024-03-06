@@ -12,3 +12,10 @@ D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\obj\Debug
 D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\obj\Debug\Create_class.csproj.CoreCompileInputs.cache
 D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\obj\Debug\Create_class.exe
 D:\Csit\6th sem\Program\C#\Sagar_Thapa\lab_1\Create_class\Create_class\obj\Debug\Create_class.pdb
+D:\Program\C#\Sagar_Thapa\Create_class\Create_class\bin\Debug\Create_class.exe.config
+D:\Program\C#\Sagar_Thapa\Create_class\Create_class\bin\Debug\Create_class.exe
+D:\Program\C#\Sagar_Thapa\Create_class\Create_class\bin\Debug\Create_class.pdb
+D:\Program\C#\Sagar_Thapa\Create_class\Create_class\obj\Debug\Create_class.csproj.AssemblyReference.cache
+D:\Program\C#\Sagar_Thapa\Create_class\Create_class\obj\Debug\Create_class.csproj.CoreCompileInputs.cache
+D:\Program\C#\Sagar_Thapa\Create_class\Create_class\obj\Debug\Create_class.exe
+D:\Program\C#\Sagar_Thapa\Create_class\Create_class\obj\Debug\Create_class.pdb
