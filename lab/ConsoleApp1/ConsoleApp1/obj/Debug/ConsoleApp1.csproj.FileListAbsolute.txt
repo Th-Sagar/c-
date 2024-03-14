@@ -1,7 +1,0 @@
-D:\Csit\6th sem\Program\C#\Constructor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-D:\Csit\6th sem\Program\C#\Constructor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-D:\Csit\6th sem\Program\C#\Constructor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-D:\Csit\6th sem\Program\C#\Constructor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-D:\Csit\6th sem\Program\C#\Constructor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-D:\Csit\6th sem\Program\C#\Constructor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-D:\Csit\6th sem\Program\C#\Constructor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

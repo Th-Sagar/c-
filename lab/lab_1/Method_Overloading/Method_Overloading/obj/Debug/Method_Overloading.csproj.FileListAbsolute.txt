@@ -1,7 +1,0 @@
-D:\Csit\6th sem\Program\C#\lab\lab_1\Method_Overloading\Method_Overloading\bin\Debug\Method_Overloading.exe.config
-D:\Csit\6th sem\Program\C#\lab\lab_1\Method_Overloading\Method_Overloading\bin\Debug\Method_Overloading.exe
-D:\Csit\6th sem\Program\C#\lab\lab_1\Method_Overloading\Method_Overloading\bin\Debug\Method_Overloading.pdb
-D:\Csit\6th sem\Program\C#\lab\lab_1\Method_Overloading\Method_Overloading\obj\Debug\Method_Overloading.csproj.AssemblyReference.cache
-D:\Csit\6th sem\Program\C#\lab\lab_1\Method_Overloading\Method_Overloading\obj\Debug\Method_Overloading.csproj.CoreCompileInputs.cache
-D:\Csit\6th sem\Program\C#\lab\lab_1\Method_Overloading\Method_Overloading\obj\Debug\Method_Overloading.exe
-D:\Csit\6th sem\Program\C#\lab\lab_1\Method_Overloading\Method_Overloading\obj\Debug\Method_Overloading.pdb

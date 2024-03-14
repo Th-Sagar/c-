@@ -1,2 +1,0 @@
-John Doe, 20, A
-Jane Smith, 21, B
