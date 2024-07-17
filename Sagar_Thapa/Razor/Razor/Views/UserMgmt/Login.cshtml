@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+
+}
+
+
+<div>
+
+    <h1>
+        login page
+
+    </h1>
+
+    <p>
+        Hello,world  - the data and time is
+        @DateTime.Now.ToString()
+    </p>
+
+    @{
+        var helloworld = "<b> Hello, world! </b> ";
+    }
+
+    <p>
+        @helloworld
+    </p>
+
+
+    <p>
+        @Html.Raw(helloworld);
+    </p>
+
+    @{
+        var name = "john doe";
+    }
+
+    hello ,@(name.Substring(0, 4)) . Your age is :<b>
+        @(37 + 5)
+    </b>
+
+    @{
+        var sum = 32 + 10;
+        var greeting = "hello world!";
+        var text = " ";
+        for (int i = 0; i < 3; i++)
+        {
+            text += greeting + "The result is :" + sum + "\n";
+        }
+    }
+
+
+    <h2>
+        code blocks
+    </h2>
+    Text : @text
+</div>
+hii
+
+@ViewData["Greeting"] world
+
